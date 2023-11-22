@@ -12,13 +12,13 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Cevin+Ochieng';Full+stack+Web/App+dev;Open+source+magician" />
 <ul>
-  <li> 💻 I'm currently working for <a href="https://github.com/Hyrule-Technologies">Hyrule-Technologies</a> </li>
-  <li> 🎓 Software Engineering B.Sc. Graduate from <a href="https://code.berlin">CODE University</a> </li>
-  <li> ✨ My favorite side project is <a href="https://github.com/8BitJonny/BeatMix">BeatMix</a> </li>
+  <li> 💻 I'm currently working for <a href="https://github.com/Hyrule-Technologies">Pich&Safe Consultance</a> </li>
+  <li> 🎓 Computer Science Graduate from <a href="https://code.berlin">Chuka University</a> </li>
+  <li> ✨ My favorite side project is <a href="https://github.com/Cevin-c/BeatMix">Finnancial Assisatant app</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
-  <li> 📫 How to reach me: <a href="mailto: christiansen.timon@gmail.com">christiansen.timon@gmail.com</a> </li>
+  <li> 📫 How to reach me: <a href="mailto: cevinbrian13@gmail.com">cevinbrian13@gmail.com</a> </li>
 </li>
 </ul>
 
@@ -28,15 +28,15 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ## Github Stats
 
-<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+<img width="276" src="https://raw.githubusercontent.com/Cevin-c/Cevin-c/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/Cevin-c/Cevin-c/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
-<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
+<img width="100%" src="https://github.com/Cevin-c/Cevin-c/raw/master/skills.svg">
 
 ## Spotify Live View
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Cevin-c/count.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
