@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cevin Ochieng'</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*Y0wtCn1tcASGxg9Pi9xDeQ.gif">
-[![HitCount](https://hits.dwyl.com/Cevin-c/alx.svg?style=flat-square)](http://hits.dwyl.com/Cevin-c/alx)
+![HitCount](https://hits.dwyl.com/Cevin-c/alx.svg?style=flat-square)](http://hits.dwyl.com/Cevin-c/alx)
 
 - 🌱 I’m currently learning **code ignitor**
 
